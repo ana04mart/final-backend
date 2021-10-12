@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"path": "produto-ms"
+		},
+		{
+			"name": "venda-ms",
+			"path": "venda-ms"
+		},
+		{
+			"name": "eureka-server",
+			"path": "eureka-server"
+		},
+		{
+			"name": "zull-server",
+			"path": "zull-server"
+		},
+		{
+			"name": "config-server",
+			"path": "config-server"
+		},
+		{
+			"path": "config"
+		},
+		{
+			"name": "final-backend",
+			"path": "."
+		}
+	]
+}
